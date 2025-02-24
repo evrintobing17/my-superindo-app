@@ -1,0 +1,8 @@
+server:
+  port: ":8080"
+db:
+  host: "127.0.0.1"
+  port: "5432"
+  username: "evrinlumbantobing"
+  password: ""
+  name: "superindo"
